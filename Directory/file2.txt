@@ -1,0 +1,5 @@
+{
+  "numberOfkidney": 2,
+  "numberOfHealthykidney": 2,
+  "numberOfUnhealthykidney": 0
+}
